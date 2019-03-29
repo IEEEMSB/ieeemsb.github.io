@@ -2,7 +2,7 @@
     scale: 1.1
 })
 
-var countDownDate = new Date("Mar 30, 2019 22:21:00").getTime();
+var countDownDate = new Date("Apr 30, 2019 22:21:00").getTime();
 var x = setInterval(function () {
 
     var now = new Date().getTime();
